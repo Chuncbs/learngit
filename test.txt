@@ -1,5 +1,0 @@
-Hello git
-Hello Java
-Hello python
-Hello machine learning
-Hello deep learning
